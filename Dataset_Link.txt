@@ -1,0 +1,1 @@
+Link to the GTZAN dataset : https://huggingface.co/datasets/marsyas/gtzan/tree/main/data
